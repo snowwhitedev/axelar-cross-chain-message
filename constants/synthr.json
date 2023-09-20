@@ -1,0 +1,50 @@
+{
+  "goerli": {
+    "lzChainId": 10121,
+    "chainType": "light",
+    "mainChainId": 10143,
+    "SynthrBridge": "0x11f66d6864FcCe84D5000E1E981DD58676633949",
+    "AddressResolver": "0xB5D02f6F0B616Cf7B013BE55DdeDd477354C58BD",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  },
+  "fuji": {
+    "lzChainId": 10106,
+    "chainType": "light",
+    "mainChainId": 10143,
+    "SynthrBridge": "0xb92DE63eb7D8A652bF80385906812F92D49C5139",
+    "AddressResolver": "0xE9dB0411cf8C0981067FCbF1445c720B03119391",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  },
+  "bsc-testnet": {
+    "lzChainId": 10102,
+    "chainType": "light",
+    "mainChainId": 10143,
+    "SynthrBridge": "0x89f1B3F4AC159Eb54D582807742814e59eB9aCC8",
+    "AddressResolver": "0xCbd4646787FE04d8abaAD756f35581657D0fFe7A",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  },
+  "mumbai": {
+    "lzChainId": 10109,
+    "chainType": "light",
+    "mainChainId": 10143,
+    "SynthrBridge": "0x97Fd3D4508704B3a55C48639E6A8db4090D02a24",
+    "AddressResolver": "0xE514CBD0996BC568f5129F8D2F29881d14866De5",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  },
+  "metis-goerli": {
+    "lzChainId": 10151,
+    "chainType": "light",
+    "mainChainId": 10143,
+    "SynthrBridge": "0x484f8F52DDb47B5F6633d1ca354c41A426D643B9",
+    "AddressResolver": "0xDACcd61F0943701D5eC44e0E94DA729354496689",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  },
+  "arbitrum-goerli": {
+    "lzChainId": 10143,
+    "chainType": "main",
+    "SynthrAggregator": "0xFfb3A525247A5bEC132339D6977e0B222A20dD5A",
+    "SynthrBridge": "0x4C11cCeE50B70dAa47c41849e45316d975b26102",
+    "AddressResolver": "0x59828e0850ae09fA5e3A4789316bD02EbB933fF5",
+    "ExchangeFeeAddress": "0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF"
+  }
+}

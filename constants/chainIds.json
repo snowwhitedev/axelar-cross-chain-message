@@ -1,0 +1,11 @@
+{
+  "ethereum": 101,
+  "bsc": 102,
+  "avalanche": 106,
+  "arbitrum": 110,
+  "goerli":           10121,
+  "bsc-testnet":      10102,
+  "fuji":             10106,
+  "arbitrum-goerli":  10143,
+  "metis": 10151
+}
